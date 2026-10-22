@@ -1,0 +1,89 @@
+{
+ "version": 1,
+ "sources": [
+  {
+   "id": "ebible",
+   "name": "eBible.org",
+   "description": "Hundreds of public-domain and openly licensed translations"
+  }
+ ],
+ "modules": [
+  {
+   "id": "WEB",
+   "abbr": "WEB",
+   "name": "World English Bible",
+   "type": "bible",
+   "lang": "en",
+   "source": "ebible",
+   "version": "2026.1",
+   "versification": "KJV",
+   "license": "Public domain",
+   "copyright": "",
+   "description": "A modern, readable public-domain translation based on the American Standard Version, updated with current scholarship.",
+   "sizeBytes": 4771150,
+   "url": "https://outhanchazima.github.io/selah-modules/WEB.sqlite.gz",
+   "sha256": "7189751688199f583e8ee37eb7455aecd79878ffed8e377d9c060ab7172dc5bc",
+   "features": [
+    "redLetters",
+    "strongs",
+    "footnotes",
+    "headings"
+   ],
+   "sample": {
+    "ref": "John.1.5",
+    "text": "The light shines in the darkness, and the darkness hasn’t overcome it."
+   }
+  },
+  {
+   "id": "KJV",
+   "abbr": "KJV",
+   "name": "King James Version",
+   "type": "bible",
+   "lang": "en",
+   "source": "ebible",
+   "version": "2026.1",
+   "versification": "KJV",
+   "license": "Public domain",
+   "copyright": "",
+   "description": "The Authorized Version of 1611, in the 1769 Oxford edition.",
+   "sizeBytes": 4402720,
+   "url": "https://outhanchazima.github.io/selah-modules/KJV.sqlite.gz",
+   "sha256": "afad2c222170be0199249856aba23e39e0c0f3615a6bf2570fdc8731adab8e12",
+   "features": [
+    "redLetters",
+    "strongs",
+    "footnotes",
+    "headings"
+   ],
+   "sample": {
+    "ref": "John.1.5",
+    "text": "And the light shineth in darkness; and the darkness comprehended it not."
+   }
+  },
+  {
+   "id": "ASV",
+   "abbr": "ASV",
+   "name": "American Standard Version",
+   "type": "bible",
+   "lang": "en",
+   "source": "ebible",
+   "version": "2026.1",
+   "versification": "KJV",
+   "license": "Public domain",
+   "copyright": "",
+   "description": "The American Standard Version of 1901, a careful revision of the King James tradition.",
+   "sizeBytes": 4819090,
+   "url": "https://outhanchazima.github.io/selah-modules/ASV.sqlite.gz",
+   "sha256": "0d15ece18fc0bc9912b9f29ed7036d7ea8ef62ed2afbda0668d6b5abfbe08c1b",
+   "features": [
+    "strongs",
+    "footnotes",
+    "headings"
+   ],
+   "sample": {
+    "ref": "John.1.5",
+    "text": "And the light shineth in the darkness; and the darkness apprehended it not."
+   }
+  }
+ ]
+}
