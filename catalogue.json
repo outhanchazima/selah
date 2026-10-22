@@ -21,7 +21,7 @@
    "copyright": "",
    "description": "A modern, readable public-domain translation based on the American Standard Version, updated with current scholarship.",
    "sizeBytes": 4771150,
-   "url": "https://outhanchazima.github.io/selah-modules/WEB.sqlite.gz",
+   "url": "https://outhanchazima.github.io/selah/WEB.sqlite.gz",
    "sha256": "7189751688199f583e8ee37eb7455aecd79878ffed8e377d9c060ab7172dc5bc",
    "features": [
     "redLetters",
@@ -47,7 +47,7 @@
    "copyright": "",
    "description": "The Authorized Version of 1611, in the 1769 Oxford edition.",
    "sizeBytes": 4402720,
-   "url": "https://outhanchazima.github.io/selah-modules/KJV.sqlite.gz",
+   "url": "https://outhanchazima.github.io/selah/KJV.sqlite.gz",
    "sha256": "afad2c222170be0199249856aba23e39e0c0f3615a6bf2570fdc8731adab8e12",
    "features": [
     "redLetters",
@@ -73,7 +73,7 @@
    "copyright": "",
    "description": "The American Standard Version of 1901, a careful revision of the King James tradition.",
    "sizeBytes": 4819090,
-   "url": "https://outhanchazima.github.io/selah-modules/ASV.sqlite.gz",
+   "url": "https://outhanchazima.github.io/selah/ASV.sqlite.gz",
    "sha256": "0d15ece18fc0bc9912b9f29ed7036d7ea8ef62ed2afbda0668d6b5abfbe08c1b",
    "features": [
     "strongs",
